@@ -7,7 +7,6 @@ K-Means Clustering on Iris Dataset
 ## Overview 
 
 
-
 #### K-Means Clustering:
 
 K-Means algorithm is an iterative algorithm that tries to partition the dataset into K
@@ -22,7 +21,7 @@ clusters to group similar spending activity based on their age and annual income
 closest values from the centre of each cluster were taken to update the cluster and
 reshape the plot (just like k-NN). The closest values are based on Euclidean Distance.
 
-This is the code for Customer Segmentation Project made for [EXPOSYS DATA LABS](http://www.exposysdata.com/), Bengaluru.
+This is the code for Customer Segmentation Project made for [THE SPARKS FOUNDATION](https://www.thesparksfoundationsingapore.org/).
 
 
 ## Clone Repository
