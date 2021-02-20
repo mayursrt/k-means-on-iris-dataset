@@ -5,6 +5,14 @@ K-Means Clustering on Iris Dataset
 # customer-segmentation-using-k-means
 
 ## Overview 
+This notebook focuses on the classification of Iris Species by its Sepal Length, Sepal Width, Petal Length and Petal Width. The Iris Dataset is used for making the classifications/ clusters.
+
+#### The Iris Dataset
+This data sets consists of 3 different types of irises’ (Setosa, Versicolour, and Virginica) petal and sepal length, stored in a 150x4 numpy.ndarray
+
+The rows being the samples and the columns being: Sepal Length, Sepal Width, Petal Length and Petal Width.
+
+The below plot uses the first two features. See [here](https://en.wikipedia.org/wiki/Iris_flower_data_set) for more information on this dataset.
 
 
 #### K-Means Clustering:
